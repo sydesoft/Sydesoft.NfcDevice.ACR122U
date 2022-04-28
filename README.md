@@ -7,6 +7,7 @@ description how to use it is here (in german): https://www.sydesoft-blog.de/nfc-
 
 Some device infos:
 https://www.sydesoft.de/nfc%20stationaere%20datenerfassung.html
+
 https://www.acs.com.hk/en/products/3/acr122u-usb-nfc-reader/
 
 sample app on github: https://github.com/sydesoft/NfcTagWriter
